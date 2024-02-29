@@ -1,0 +1,16 @@
+{
+  "name": "checkbalance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkBalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.5",
+    "ethers": "^5.7.2"
+  }
+}
